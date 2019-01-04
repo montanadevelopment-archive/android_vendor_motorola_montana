@@ -222,7 +222,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/montana/proprietary/vendor/lib/hw/vendor.qti.hardware.fm@1.0-impl.so:system/vendor/lib/hw/vendor.qti.hardware.fm@1.0-impl.so \
     vendor/motorola/montana/proprietary/vendor/lib/hw/vendor.qti.hardware.iop@1.0-impl.so:system/vendor/lib/hw/vendor.qti.hardware.iop@1.0-impl.so \
     vendor/motorola/montana/proprietary/vendor/lib/hw/vulkan.msm8937.so:system/vendor/lib/hw/vulkan.msm8937.so \
-	vendor/motorola/montana/proprietary/vendor/lib/hw/camera.msm8937.so:system/vendor/lib/hw/camera.msm8937.so \
+	vendor/motorola/montana/proprietary/vendor/lib/hw/camera.vendor.msm8937.so:system/vendor/lib/hw/camera.vendor.msm8937.so \
     vendor/motorola/montana/proprietary/vendor/lib/libmot_lux_standardization.so:system/vendor/lib/libmot_lux_standardization.so \
     vendor/motorola/montana/proprietary/vendor/lib/lib_motsensorlistener.so:system/lib/lib_motsensorlistener.so \
     vendor/motorola/montana/proprietary/vendor/lib/libactuator_dw9718s.so:system/vendor/lib/libactuator_dw9718s.so \
