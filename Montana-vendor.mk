@@ -103,7 +103,9 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/montana/proprietary/lib/libarcsoft_beautyshot.so:system/lib/libarcsoft_beautyshot.so \
     vendor/motorola/montana/proprietary/lib/libcom_fingerprints_service.so:system/lib/libcom_fingerprints_service.so \
     vendor/motorola/montana/proprietary/lib/libfamily_photo.so:system/lib/libfamily_photo.so \
+    vendor/motorola/montana/proprietary/lib/libjni_dualcamera.so:system/lib/libjni_dualcamera.so \
     vendor/motorola/montana/proprietary/lib/libjson.so:system/lib/libjson.so \
+    vendor/motorola/montana/proprietary/lib/libmbs.so:system/lib/libmbs.so \
     vendor/motorola/montana/proprietary/lib/libmdmcutback.so:system/lib/libmdmcutback.so \
     vendor/motorola/montana/proprietary/lib/libmemalloc.so:system/lib/libmemalloc.so \
     vendor/motorola/montana/proprietary/lib/libmot-qc-fd-offline.so:system/lib/libmot-qc-fd-offline.so \
